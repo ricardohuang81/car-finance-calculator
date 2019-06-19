@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">XML Attributes</string>
+    <string name="txtTitle">Electric Car Financing</string>
+    <string name="txtYears">Number of Years</string>
+    <string name="txtLoan">Car Loan Amount</string>
+    <string name="txtInterest">Interest Rate</string>
+</resources>
