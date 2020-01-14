@@ -1,1 +1,1 @@
-# car-finance-calculator
+# Android Studio Project: simple car financing calculator
